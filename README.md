@@ -1,6 +1,5 @@
 # Information
-
-this is an itunes search that searches songs according to an artist
+this project of the backend for a chat in Express with MongoDB and use clean architecture and Sockets 
 
 ## Available Scripts
 
